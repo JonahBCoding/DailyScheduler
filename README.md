@@ -8,4 +8,4 @@
 https://github.com/JonahBCoding/DailyScheduler
 
 ### Deployed Website
-
+https://jonahbcoding.github.io/DailyScheduler/
